@@ -1,5 +1,5 @@
 # Mini-Project-Salary-Survey-EntriApp
-A Comprehensive Salary Breakdown by Demographic and Career Factors
+A Comprehensive Salary Breakdown by Demographic and Career Factors.
 
 Project Objective:
 
@@ -7,9 +7,9 @@ To conduct a comprehensive and objective analysis of salary variations, based on
 
 •	Demographics (gender, race/ethnicity)
 
-•	Highest level of educational attainment
+•	Highest level of Qualification.
 
-•	Overall work experience
+•	Overall work experience.
 
 •	Experience in a related field
 
