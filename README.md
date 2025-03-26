@@ -6,8 +6,11 @@ Project Objective:
 To conduct a comprehensive and objective analysis of salary variations, based on the following factors:
 
 •	Demographics (gender, race/ethnicity)
+
 •	Highest level of educational attainment
+
 •	Overall work experience
+
 •	Experience in a related field
 
 Tools used:
