@@ -13,9 +13,10 @@ To conduct a comprehensive and objective analysis of salary variations, based on
 
 •	Experience in a related field
 
-Tools used:
+Tools Used :
 
 •	Excel
+
 •	Power BI
 
 
